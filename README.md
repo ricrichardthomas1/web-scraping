@@ -1,3 +1,4 @@
-# hello-world
-My first repository
-This is the edit I'm gonna make before my first commit
+# web-scraping
+This repository houses the web-scraping projects I'm working on:
+1. LinkedIn people profile scraping
+2. College dunia course data scraping
